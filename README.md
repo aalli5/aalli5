@@ -1,6 +1,4 @@
-<!--## Hi there 👋-->
-
-Hi there! 👋
+## Hi there 👋
 
 I'm a Computer Science student at the University of Illinois at Chicago, graduating in May 2025. 🚀
 
